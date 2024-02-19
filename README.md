@@ -1,2 +1,2 @@
 # TicTacToe
-In this project I did a TicTacToe where you can play against an unbeatable AI.
+In diesem Projekt habe ich ein TicTacToe programmiert, mit einer unschlagbaren AI.
