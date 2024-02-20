@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe mit einer unschlagbaren KI
+TicTacToe mit einer unschlagbaren KI.
 In diesem Projekt wurde ein TicTacToe-Spiel entwickelt, bei dem du gegen eine unschlagbare KI antreten kannst. Das Spiel wurde mit Python entwickelt und bietet eine Benutzeroberfläche, auf der du versuchen kannst, die KI zu besiegen.
 
 Installation und Ausführung
